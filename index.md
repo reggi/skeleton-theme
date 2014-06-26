@@ -2,8 +2,6 @@
 layout: index
 ---
 
-The Skeleton theme is a simplified Shopify theme, to be used as a "blank slate" starting point for theme designers.
-
 ### Features
 
 - Almost no theme settings. Ready to be customized any way you want. 
